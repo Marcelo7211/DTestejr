@@ -4,9 +4,7 @@
 
 ## **Masterclass Java: Dominando Testes Lógicos para Júnior**
 
-**Duração:** 2 horas
-**Público-alvo:** Desenvolvedores Júnior em preparação para processos seletivos.
-**Instrutor:** Seu Designer de Carreira e Mentor Tech
+**Duração:** 2 horas.
 
 ---
 
