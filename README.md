@@ -110,8 +110,6 @@ Dadas duas Strings, verifique se uma é um anagrama da outra. Um anagrama é uma
 Dado um número inteiro `n`, imprima uma pirâmide de `n` andares usando o caractere `*`.
 Ex: n=3
   *
- ***
-*****
 
 **Teste 10: Soma dos Dígitos em uma String**
 Dada uma String que pode conter letras e números, encontre e retorne a soma de todos os dígitos individuais presentes nela. (Ex: "a1b2c3" -> 6).
